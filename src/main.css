@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+section {
+  padding: 3em;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+pre {
+  text-align: left;
+  background-color: #eee;
+  border: 1px solid #aaa;
+  padding: 1em;
+  border-radius: 3px;
+  font-family: monospace;
+}
