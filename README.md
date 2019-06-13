@@ -4,7 +4,8 @@ Using the Parcel Bundler library and some es6, we'll make a simple app.
 
 How to use: 
 * git clone this repo.
-* run `npm install` to install all dependencies. * run `npm run dev` and Point your browser at `localhost:1234`.
+* run `npm install` to install all dependencies. 
+* run `npm run dev` and Point your browser at `localhost:1234`.
 * play around with the html, js, and css. 
 * When you're finished with your app and ready to deploy, run `npm run build`.
 
